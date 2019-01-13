@@ -1,5 +1,5 @@
 {
-  "name": "hasattr",
+  "name": "ak-hasattr",
   "version": "1.0.0",
   "description": "Search key exists, in a deep json object ",
   "main": "index.js",
