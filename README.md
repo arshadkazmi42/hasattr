@@ -6,19 +6,19 @@ Search key, in a deep json object or array
 #### Using npm 
 
 ```
-npm install hasattr
+npm install ak-hasattr
 ```
 
 #### Using yarn
 
 ```
-yarn add hasattr
+yarn add ak-hasattr
 ```
 
 ## Usage
 
 ```javascript
-const hasAttr = require('hasattr');
+const hasAttr = require('ak-hasattr');
 const JSON = {
   'name': 'Arshad Kazmi',
   'profile': {
