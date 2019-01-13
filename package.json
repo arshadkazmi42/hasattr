@@ -1,0 +1,27 @@
+{
+  "name": "hasattr",
+  "version": "1.0.0",
+  "description": "Search key exists, in a deep json object ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/hasattr.git"
+  },
+  "keywords": [
+    "has",
+    "contains",
+    "jsonhas",
+    "jsonattribute",
+    "jsonattr",
+    "jsoncontains"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/hasattr/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/hasattr#readme"
+}
