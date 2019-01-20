@@ -1,4 +1,12 @@
 # hasattr :mag_right:
+
+[![Build Status](https://travis-ci.com/arshadkazmi42/hasattr.svg?branch=master)](https://travis-ci.com/arshadkazmi42/hasattr)
+[![NPM Downloads](https://img.shields.io/npm/dt/ak-hasattr.svg)](https://www.npmjs.com/package/ak-hasattr)
+[![Package Size](https://img.shields.io/bundlephobia/min/ak-hasattr.svg)](https://www.npmjs.com/package/ak-hasattr)
+[![NPM Version](https://img.shields.io/npm/v/ak-hasattr.svg)](https://www.npmjs.com/package/ak-hasattr)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/hasattr.svg)](https://github.com/arshadkazmi42/hasattr/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/hasattr.svg)](https://github.com/arshadkazmi42/hasattr/commits/master)
+
 Search key, in a deep json object or array
 
 ## Installation
