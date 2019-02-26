@@ -66,4 +66,4 @@ console.log(hasAttr('something', JSON));
 
 We are constantly working on improving `hasattr` and we need all the help we can get. 
 
-You can contribute to this project by giving [suggestions](https://github.com/arshadkazmi42/hasattr/issues/new), fixing [open issues](https://github.com/arshadkazmi42/hasattr/issues) or by implementing a new feature. Read our contibution guide [here](https://github.com/arshadkazmi42/hasattr/CONTRIBUTING.md)
+You can contribute to this project by giving [suggestions](https://github.com/arshadkazmi42/hasattr/issues/new), fixing [open issues](https://github.com/arshadkazmi42/hasattr/issues) or by implementing a new feature. Read our contibution guide [here](CONTRIBUTING.md)
