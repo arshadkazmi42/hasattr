@@ -1,6 +1,6 @@
 # hasattr :mag_right:
 
-[![Build Status](https://travis-ci.com/arshadkazmi42/hasattr.svg?branch=master)](https://travis-ci.com/arshadkazmi42/hasattr)
+[![Build](https://github.com/arshadkazmi42/hasattr/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/hasattr/actions/workflows/nodejs.yml)
 [![NPM Downloads](https://img.shields.io/npm/dt/ak-hasattr.svg)](https://www.npmjs.com/package/ak-hasattr)
 [![Package Size](https://img.shields.io/bundlephobia/min/ak-hasattr.svg)](https://www.npmjs.com/package/ak-hasattr)
 [![NPM Version](https://img.shields.io/npm/v/ak-hasattr.svg)](https://www.npmjs.com/package/ak-hasattr)
