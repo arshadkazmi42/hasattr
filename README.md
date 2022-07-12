@@ -67,9 +67,3 @@ console.log(hasAttr('something', JSON));
 We are constantly working on improving `hasattr` and we need all the help we can get. 
 
 You can contribute to this project by giving [suggestions](https://github.com/arshadkazmi42/hasattr/issues/new), fixing [open issues](https://github.com/arshadkazmi42/hasattr/issues) or by implementing a new feature. Read our contibution guide [here](CONTRIBUTING.md)
-
-## Contributors
-
-Thank you to all the contributors who help in making this project better 🙌
-
-<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a><a href="https://github.com/DXJ3X1"><img src="https://github.com/DXJ3X1.png" width="30" /></a>
